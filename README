@@ -1,0 +1,4 @@
+Source code for Hadoop Developer training
+
+SSSP/   Shortest Path example, originally from Kai Voigt (https://github.com/kaivoigt/Hadoop)
+tfidf/  Naive TF-IDF implementation
